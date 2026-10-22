@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#102D36"/><stop offset="1" stop-color="#111518"/></linearGradient></defs>
+<rect width="1200" height="360" rx="24" fill="url(#g)"/>
+<rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#245360"/>
+<text x="64" y="84" fill="#22B8CF" font-family="Segoe UI,Arial" font-size="16" letter-spacing="4">DESIRE UTILITIES · WINDOWS</text>
+<text x="60" y="168" fill="#EDF2F5" font-family="Segoe UI,Arial" font-size="66" font-weight="700">DesireScreen</text>
+<text x="64" y="218" fill="#C4D8DE" font-family="Segoe UI,Arial" font-size="25">Снимок. Текст. Редактирование.</text>
+<rect x="64" y="263" width="350" height="38" rx="19" fill="#1B424C"/>
+<text x="85" y="288" fill="#9BEAF4" font-family="Segoe UI,Arial" font-size="16">Бесплатно · Локально · Без аккаунта</text>
+<g transform="translate(815 70)"><rect width="290" height="195" rx="12" fill="#1B2228" stroke="#3B5963"/><path d="M22 42H268" stroke="#3B5963"/><circle cx="24" cy="22" r="4" fill="#22B8CF"/><circle cx="39" cy="22" r="4" fill="#557680"/><path d="M42 76H245V158H42Z" fill="#18343D" stroke="#22B8CF" stroke-dasharray="5 4"/><path d="M61 99H171M61 118H222M61 137H189" stroke="#C4D8DE" stroke-width="5" stroke-linecap="round"/><rect x="180" y="173" width="85" height="30" rx="6" fill="#22B8CF"/><path d="M199 189h14m8 0h14m8 0h7" stroke="#10252B" stroke-width="3"/></g>
+</svg>
