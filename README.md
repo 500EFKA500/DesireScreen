@@ -15,7 +15,7 @@
 | [DesireScreen-Translation-0.3.0.dscreenpack](https://github.com/500EFKA500/DesireScreen/releases/download/v0.3.0/DesireScreen-Translation-0.3.0.dscreenpack) | Необязательное дополнение с офлайн-переводом английский ↔ русский. |
 | [SHA256SUMS.txt](https://github.com/500EFKA500/DesireScreen/releases/download/v0.3.0/SHA256SUMS.txt) | Контрольные суммы файлов выпуска. |
 
-**Windows 10 версии 2004 и новее / Windows 11, x64.** Для OCR нужны компоненты распознавания соответствующих языков Windows. .NET и Python отдельно устанавливать не требуется.
+**Windows x64; рекомендуется Windows 11.** На Windows 10 совместимость зависит от редакции и версии системы; отдельная проверка пока не проводилась. [Поддерживаемые системы .NET 10](https://github.com/dotnet/core/blob/main/release-notes/10.0/supported-os.md). Для OCR нужны компоненты распознавания соответствующих языков Windows. .NET и Python отдельно устанавливать не требуется.
 
 ## Всё нужное рядом со снимком
 
